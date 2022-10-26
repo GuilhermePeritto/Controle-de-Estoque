@@ -1,0 +1,15 @@
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\bin\Debug\net6.0\Controle de Estoque.exe
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\bin\Debug\net6.0\Controle de Estoque.deps.json
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\bin\Debug\net6.0\Controle de Estoque.runtimeconfig.json
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\bin\Debug\net6.0\Controle de Estoque.dll
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\bin\Debug\net6.0\Controle de Estoque.pdb
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\obj\Debug\net6.0\Controle de Estoque.csproj.AssemblyReference.cache
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\obj\Debug\net6.0\Controle de Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\obj\Debug\net6.0\Controle de Estoque.AssemblyInfoInputs.cache
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\obj\Debug\net6.0\Controle de Estoque.AssemblyInfo.cs
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\obj\Debug\net6.0\Controle de Estoque.csproj.CoreCompileInputs.cache
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\obj\Debug\net6.0\Controle de Estoque.dll
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\obj\Debug\net6.0\refint\Controle de Estoque.dll
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\obj\Debug\net6.0\Controle de Estoque.pdb
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\obj\Debug\net6.0\Controle de Estoque.genruntimeconfig.cache
+C:\Users\perit\Documents\Projetos\Controle de Estoque\Controle de Estoque\obj\Debug\net6.0\ref\Controle de Estoque.dll
